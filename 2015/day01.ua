@@ -1,6 +1,7 @@
-input ← &fras "day01.txt"
-floors ← +1×¯2-@( input
-partOne ← /+ floors
-partTwo ← +1⊗¯1\+ floors
-$"Santa ends up on floor _." partOne
-$"Santa enters the basement on instruction _." partTwo
+Input ← &fras "day01.txt"
+Floors ← +1×¯2-@( Input
+PartOne ← /+ Floors
+PartTwo ← +1⊗¯1\+ Floors
+
+$"Santa ends up on floor _." PartOne
+$"Santa enters the basement on instruction _." PartTwo
