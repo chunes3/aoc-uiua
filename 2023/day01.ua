@@ -1,3 +1,4 @@
+# v0.4.1
 In ← &fras"1"
 F! ← /+⊜(parse⊂⊢:⊢⇌.^1)≠,@\n
 R ← "one|two|three|four|five|six|seven|eight|nine"
