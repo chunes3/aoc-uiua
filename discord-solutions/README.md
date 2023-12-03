@@ -1,6 +1,6 @@
 # Advent of Code 2023 Uiua Discord Solutions
 
-This is my attempt to curate the solutions that have been shared on the [Uiua discord server](https://discord.gg/3r9nrfYhCc). If you wish to avoid spoilers, turn back now.
+This is my attempt to curate the [Advent of Code](https://adventofcode.com/) solutions that have been shared on the [Uiua discord server](https://discord.gg/3r9nrfYhCc). If you wish to avoid spoilers, turn back now.
 
 ## Days
 
