@@ -26,6 +26,7 @@ This is my attempt to curate the solutions that have been shared on the [Uiua di
 - [Tower](https://uiua.org/pad?src=0_4_1__eCDihpAgeyIxYWJjMiIgInBxcjNzdHU4dnd4IiAiYTFiMmMzZDRlNWYiICJ0cmViN3VjaGV0In0KZCDihpAgIjEyMzQ1Njc4OTAiCgovK-KJoXBhcnNl4oi1KOKZreKKnzrihpkx4oa7wq8xOuKGmTEuJCJfIiniiLUocGFyc2Xilr3iiIosZOKKlCl4Cg==) (pad, part 1 only)
 - [thomasip](https://www.uiua.org/pad?src=0_4_1__TCDihpAg4oqc4pah4omgQFxuLiAmZnJhcyAiaW5wdXRzL2RheTAxLnR4dCIKCiMgcGFydCAxCi8r4oi1KCvDlzEw4oqD4oqiKOKKouKHjCktQDDilr3iiaRAOS7iipQpTAoKIyBwYXJ0IDIKRCDihpAg4oqCeyJvbmUiICJ0d28iICJ0aHJlZSIgImZvdXIiICJmaXZlIiAic2l4IiAic2V2ZW4iICJlaWdodCIgIm5pbmUifeKIteKWoStAMeKHoTkKRiDihpAg4oqi4pa94omgMC4vK8OX4oqCLisx4oehOeKJoSjijJXiipPiipQo4qyaQCDihpk1MOKKlCkpCi8r4oi1KCvDlzEw4oqDKEYgRCkoRuKIteKHjETih4wpKSBM) (pad)
 - [Boink](https://github.com/chunes3/aoc-uiua/blob/main/discord-solutions/files/Boink-day01.png) (image)
+- [⎝⪩﹏⪨⎠](https://github.com/chunes3/aoc-uiua/blob/main/discord-solutions/files/unnamed-day01.png) (image)
 
 
 - RomanPro100 [part 1](https://github.com/chunes3/aoc-uiua/blob/main/discord-solutions/files/RomanPro100-day01a.png), [part 2](https://github.com/chunes3/aoc-uiua/blob/main/discord-solutions/files/RomanPro100-day01b.png) (image)
