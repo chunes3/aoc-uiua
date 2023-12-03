@@ -8,7 +8,7 @@ This is my attempt to curate the [Advent of Code](https://adventofcode.com/) 202
 
 ## Repos/sites
 
-[aprzn](https://git.interestingzinc.xyz/aprzn/aoc2023/) | [chunes](https://github.com/chunes3/aoc-uiua/tree/main/2023) | [Edhebi](https://codeberg.org/edhebi/aoc/src/branch/main/2023/uiua) | [jonathanperret](http://aoc2023.jonathanperret.net/) | [kejadlen](https://git.kejadlen.dev/alpha/advent-of-code/src/branch/main/2023/uiua) | [Omnikar](https://github.com/Omnikar/aoc-2023/tree/main/uiua)
+[aprzn](https://git.interestingzinc.xyz/aprzn/aoc2023/) | [chunes](https://github.com/chunes3/aoc-uiua/tree/main/2023) | [Edhebi](https://codeberg.org/edhebi/aoc/src/branch/main/2023/uiua) | [jonathanperret](http://aoc2023.jonathanperret.net/) | [kejadlen](https://git.kejadlen.dev/alpha/advent-of-code/src/branch/main/2023/uiua) | [Omnikar](https://github.com/Omnikar/aoc-2023/tree/main/uiua) | [Pythongirl](https://gitlab.com/pythongirl/advent-of-code/-/tree/main/2023?ref_type=heads)
 
 ## Day 1
 
