@@ -2,9 +2,9 @@
 
 This is my attempt to curate the solutions that have been shared on the [Uiua discord server](https://discord.gg/3r9nrfYhCc). If you wish to avoid spoilers, turn back now.
 
-## Repos
+## Repos/sites
 
-[aprzn](https://git.interestingzinc.xyz/aprzn/aoc2023/) | [chunes](https://github.com/chunes3/aoc-uiua/tree/main/2023) | [Edhebi](https://codeberg.org/edhebi/aoc/src/branch/main/2023/uiua)
+[aprzn](https://git.interestingzinc.xyz/aprzn/aoc2023/) | [chunes](https://github.com/chunes3/aoc-uiua/tree/main/2023) | [Edhebi](https://codeberg.org/edhebi/aoc/src/branch/main/2023/uiua) | [jonathanperret](http://aoc2023.jonathanperret.net/)
 
 ## Day 1
 
