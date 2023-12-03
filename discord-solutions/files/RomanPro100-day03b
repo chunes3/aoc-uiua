@@ -1,0 +1,28 @@
+FindChars ← ≡∊:∩¤
+
+PasteNums ← |2 ⍜(☇1)≡((⊡1|/↥)=1⊡1.)∵⊂
+SpreadNums ← ⍥(
+  ≡⬚0(↻¯1).
+  PasteNums
+  ≡⬚0(↻1).
+  PasteNums
+)2
+
+&fras"d3.txt"
+⊜∘≠@\n. # Split into lines
+.
+⊃(
+  FindChars"0123456789" # Find all numbers
+  ⊢
+| FindChars"*"                  # Find all gears
+  ×⍜♭\+.                        # Give each gear a number
+  /↥≡↻◫2[¯1 0 1 0 ¯1 1 1 ¯1 ¯1] # Mark all cells adjacent to gears with the number of a gear
+)
++⊃×∘       # Mark all numbers adjacent to gears with the number of a gear
+SpreadNums # Make the whole number be marked with the number of a gear (1 = no gear),
+×>1.       # Filter out numbers marked with 1s
+# ⊕□⊃(⊜⊢.)⊜(□parse)∩♭
+⊕□⊃(⊜⊢.)⊜(□parse)∩♭ # Split numbers by gears
+∵⊔∵⊔▽=2∵⧻.          # Filter out gears with amount of numbers other than 2
+≡/×                 # Get all gear ratios
+/+                  # Sum them up
