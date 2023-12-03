@@ -1,6 +1,21 @@
-# Advent of Code 2023 Uiua Solutions
+# Advent of Code 2023 Uiua Discord Solutions
 
-This is my attempt to curate the solutions that have been shared on the Uiua discord server. If you wish to avoid spoilers, turn back now.
+This is my attempt to curate the solutions that have been shared on the [Uiua discord server](https://discord.gg/3r9nrfYhCc). If you wish to avoid spoilers, turn back now.
+
+## Day 2
+
+- [gifti](https://github.com/chunes3/aoc-uiua/blob/main/discord-solutions/files/gifti-day02) (text, uses special left-to-right fork of Uiua)
+- [ᴉɐʞ; (june)](https://uiua.org/pad?src=0_4_1__4oqQ4oqDKC8r4omhKC_Dly_ihqUpfC8rKzHiipriiaEoL8OXL8OX4omh4omkwqQxMl8xM18xNCkp4oqcKOKWoeKKnCgv4oal4oqcKMOX4oqDKHBhcnNl4oqU4oqifOKJoeKJjXsicmVkIiJncmVlbiIiYmx1ZSJ9wqTiiqLih4wp4oaYMXJlZ2V4IihcXGQqKSAocmVkfGdyZWVufGJsdWUpIiniiaBALC4p4omgQDsuKeKJoEBcbi4K) (pad)
+- [Robzilla](https://github.com/chunes3/aoc-uiua/blob/main/discord-solutions/files/Robzilla-day02.png) (image)
+- [Vap0r1ze](https://github.com/chunes3/aoc-uiua/blob/main/discord-solutions/files/Vap0r1ze-day02.png) (image)
+    - [revised](https://github.com/chunes3/aoc-uiua/blob/main/discord-solutions/files/Vap0r1ze-day02-2.png) (image)
+- [Edhebi](https://github.com/chunes3/aoc-uiua/blob/main/discord-solutions/files/Edhebi-day02.png) (image)
+- [Kaikalii](https://uiua.org/pad?src=0_4_1__JCBHYW1lIDE6IDMgYmx1ZSwgNCByZWQ7IDEgcmVkLCAyIGdyZWVuLCA2IGJsdWU7IDIgZ3JlZW4KJCBHYW1lIDI6IDEgYmx1ZSwgMiBncmVlbjsgMyBncmVlbiwgNCBibHVlLCAxIHJlZDsgMSBncmVlbiwgMSBibHVlCiQgR2FtZSAzOiA4IGdyZWVuLCA2IGJsdWUsIDIwIHJlZDsgNSBibHVlLCA0IHJlZCwgMTMgZ3JlZW47IDUgZ3JlZW4sIDEgcmVkCiQgR2FtZSA0OiAxIGdyZWVuLCAzIHJlZCwgNiBibHVlOyAzIGdyZWVuLCA2IHJlZDsgMyBncmVlbiwgMTUgYmx1ZSwgMTQgcmVkCiQgR2FtZSA1OiA2IHJlZCwgMSBibHVlLCAzIGdyZWVuOyAyIGJsdWUsIDEgcmVkLCAyIGdyZWVuCklucHV0IOKGkApDb2xvcnMg4oaQIHsiIHJlZCIgIiBncmVlbiIgIiBibHVlIn0KQ3ViZSDihpAgKAogIOKKouKHjOKKmj1AIC4gICAgICAgICAgICAgICAgICAgICAjIEZpbmQgbGFzdCBzcGFjZQogIOKKn-KKgyhwYXJzZeKWveKJoEAgLuKGmXziipc6Q29sb3JzIOKWoeKGmCkgIyBQYXJzZSBjb3VudCBhbmQgY29sb3IKKQpHYW1lIOKGkCAoCiAg4oaYKzIg4oqa4oyVQDouICAgICAgICAgIyBSZW1vdmUgZ2FtZSBpZAogIOKKnCjilqHiipxDdWJl4omgQCwuKeKJoEA7LiAjIFBhcnNlIGN1YmVzCiAg4oqQL-KKgiAgICAgICAgICAgICAgICMgQ29tYmluZSAKICDiipUv4oalIOKNmOKKn-KHjOKNiSAgICAgICAgICAjIEdldCBtYXhlcwopCkNvdW50cyDihpAg4oqcR2FtZSDiiaBAXG4uIElucHV0CgovKysx4oqawqziiaEoL-KGpT4pwqQxMl8xM18xNCBDb3VudHMgIyBQYXJ0IDEKLyviiaEvw5cgQ291bnRzICAgICAgICAgICAgICAgICAjIFBhcnQgMgo=) (pad)
+- Mouthless Stoat [part 1](https://uiua.org/pad?src=0_4_1__4oqcKOKWoeKKnCjilqHiipzilqHiiaAsQCwp4omgLEA7KeKJoCxAXG4K4oi1KAogIOKNnCjiiqLiiqIpKOKGmDHiipzilqHiiaAsQDriipQpCiAg4oqUCiAgL-KGp-KItSjiipk7L-KGpy_ihqdb4oqDKOKItSgoMXziiaQxNHBhcnNl4oaYwq80KS_ihqXijJUiYmx1ZSIu4oqUKXziiLUoKDF84omkMTJwYXJzZeKGmMKvMykv4oal4oyVInJlZCIu4oqUKXziiLUoKDF84omkMTNwYXJzZeKGmMKvNSkv4oal4oyVImdyZWVuIi7iipQpKV0u4oqUKQopCi8rKzHiipoK), [part 2](https://uiua.org/pad?src=0_4_1__4oqcKOKWoeKKnCjilqHiipzilqHiiaAsQCwp4omgLEA7KeKJoCxAXG4K4oi1KAogIOKNnCjiiqLiiqIpKOKGmDHiipzilqHiiaAsQDriipQpCiAg4oqUCiAgL8OX4oi1KC_ihqXiiLUocGFyc2Xilr3iiJjiiaRAOS7iipQp4oqUKeKKleKWoS_ihqVb4oqDKMOXMOKItSgv4oal4oyVInJlZCLiipQpfMOXMeKItSgv4oal4oyVImJsdWUi4oqUKXzDlzLiiLUoL-KGpeKMlSJncmVlbiLiipQpKV0uL-KKkOKKggopCi8rCg==) (pad)
+- ⎝⪩﹏⪨⎠ [uncommented](https://github.com/chunes3/aoc-uiua/blob/main/discord-solutions/files/unnamed-day02.png), [commented](https://github.com/chunes3/aoc-uiua/blob/main/discord-solutions/files/unnamed-commented-day02.png) (image)
+- [Flopster](https://github.com/chunes3/aoc-uiua/blob/main/discord-solutions/files/Flopster-day02.png) (image)
+- [chunes](https://uiua.org/pad?src=0_4_1__ViDihpAg4oqXOnsicmVkIiAiZ3JlZW4iICJibHVlIn0KRiDihpAg4oi1ViByZWdleCJyZWR8Ymx1ZXxncmVlbiI64oaYMeKKkOKItXBhcnNlcmVnZXgiXFxkKyIuClBhcnNlQnkhIOKGkCDiipwoXjJGKeKJoCxAXG4KCiZmcmFzIjIiCi8rKzHiippQYXJzZUJ5ISgvw5fiiaQrMTIpLiAjIHBhcnQgMQovK1BhcnNlQnkhKC_Dl-KKlS_ihqUpOiAgICAgIyBwYXJ0IDIK) (pad)
+- [if-els](https://github.com/chunes3/aoc-uiua/blob/main/discord-solutions/files/if-els-day02.png) (image)
 
 ## Day 3
 
