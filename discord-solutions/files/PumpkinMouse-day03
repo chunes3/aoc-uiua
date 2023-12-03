@@ -1,0 +1,16 @@
+DigitStrs ← {@1 @2 @3 @4 @5 @6 @7 @8 @9 "one" "two" "three" "four" "five" "six" "seven" "eight" "nine"}
+GetFirstWord ← ⊗0≡(⊢⊂:[¯1]⊚⌕⊔)DigitStrs¤⊂:"____"
+GetNumberOfLine ← +×10⊢⇌:⊢.≡(+1◿9)▽≠18.[;⍥(↘1:GetFirstWord.)⧻.]
+
+&fo "./input/day1"
+/+;⍢(⊂GetNumberOfLine)(¬≍"".&ru@\n,)[]
+&p
+&cl
+
+GetColourNums ← ≡(parse⊏+⊏0:⇡-1/-.)⍉⊟▽↻1∊,,⊃⊃⊃(+1⊚⌕" ")(⊚⌕:)¤;:
+GetColourPowers ← /×≡(/↥GetColourNums⊔){"red" "green" "blue"}¤
+
+&fo "./input/day2"
+/+;⍢(⊂GetColourPowers)(≠0⧻.&ru@\n,)[]
+&p
+&cl
