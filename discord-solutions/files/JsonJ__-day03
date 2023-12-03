@@ -1,0 +1,52 @@
+⊂@\n &fras "AoC 2023/day3.in"
+
+# ###############
+# # Common Code #
+# ###############
+
+# NumberToTag, String, NextTag -> Tagged
+# Tags numbers in the string using the NextTag, incrementing it
+# Tagging is replacing a number with an index representing that number
+TagOne ← ⍜↻(⊂:↘⧻,)⊙⊙(⊃(+¯:)⋅(+1))⊙:⊢⊚⊃⌕⊓(⊚⧻)∘
+# Array -> RolledArray
+# Replaces the array by adjacencies instead
+Roll ← ↥↥⊃(⬚0↻¯1|⬚0↻1|∘)
+
+⊜(⊂@.↘1)≠@\r.
+⊃♭△
+# Pick out numbers and prepare grid for tagging
+# ∞ and π used because negative ints and 0-9 are all used
+⊃(≡(□-@0⊔)regex"\\d+")∵(((⊡:∞_π=@*|0;)=@..|-@0)↧⊃(≤@9)(≥@0).)
+⊙(↯:⊙;∧(TagOne⊔)⊙⊙1). # Replace numbers with tags
+
+PartOne ← (
+  ⊙(
+    ↥⊃(=∞|=π).          # Pick out all symbols
+    ⍜⍉Roll Roll         # Replace each one with a 3x3 grid
+    ×                   # Keep only adjacent ones
+    ↘2⊏⍏.-1¯⊝+(0|∞)=π.♭ # Convert tags to indices and remove 0 and ∞
+  )
+  /+≡⊐(parse+@0)⊏: # Select numbers remaining and add
+)
+
+PartTwo ← (
+  ⊙(
+    ⊚=π. # Find all possible gears "*"
+    ⊙¤   # Prepare for rows
+    ≡(
+      ∩(-1)⍘⊟        # Split the coordinate
+      ⊙(↻):          # Rotate vertically
+      ≡↻             # Rotate horizontally
+      ≡(↙3)↙3        # Pick out box
+      +∵(⊡:0_∞)=π.   # Replace the π with ∞
+      ↘2⊏⍏.-1⊝¯♭     # Find all tags
+      ([];|∘)⊃(=2⧻)∘ # If not 2, throw away
+      □
+    )
+  )
+  ⊙(≡⊔▽≡(=2⧻).) # Remove non-2 gears and unbox
+  ¤≡⊐(parse+@0) # Replace with fixed
+  /+≡(/×⊏:)     # Get the gear numbers and add
+)
+
+⊃PartOne PartTwo
