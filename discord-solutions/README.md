@@ -2,6 +2,10 @@
 
 This is my attempt to curate the solutions that have been shared on the [Uiua discord server](https://discord.gg/3r9nrfYhCc). If you wish to avoid spoilers, turn back now.
 
+## Repos
+
+[aprzn](https://git.interestingzinc.xyz/aprzn/aoc2023/) | [chunes](https://github.com/chunes3/aoc-uiua/tree/main/2023) | [Edhebi](https://codeberg.org/edhebi/aoc/src/branch/main/2023/uiua)
+
 ## Day 1
 
 - [Pythongirl](https://www.uiua.org/pad?src=0_4_1__TWluTWF4IOKGkCDiiKco4oqD4oanKOKGpeKKmeKLheKImCkpIOKKgyjihpgxKSgu4oqiKQoKVGVzdElucHV0IOKGkCAkIjFhYmMyXG5wcXIzc3R1OHZ3eFxuYTFiMmMzZDRlNWZcbnRyZWI3dWNoZXQiClRlc3RJbnB1dFR3byDihpAgInR3bzFuaW5lXG5laWdodHdvdGhyZWVcbmFiY29uZTJ0aHJlZXh5elxueHR3b25lM2ZvdXJcbjRuaW5lZWlnaHRzZXZlbjJcbnpvbmVpZ2h0MjM0XG43cHFyc3RzaXh0ZWVuIgpJbnB1dCDihpAgJmZyYXMgImlucHV0MDEudHh0IgoKRGF0YSDihpAg4oqc4pah4omgLCBAXG4gSW5wdXQKClBhcnRPbmUg4oaQIC8rIOKJoXBhcnNl4oi1KOKKnyDiiKniiqIg4oqD4oiY4oeMIOKWveKIijorQDDih6ExMC7iipQpIERhdGEKJnMgUGFydE9uZQoKRGlnaXRzIOKGkCB7eyIwIn0geyIxIiAib25lIn0geyIyIiAidHdvIn0geyIzIiAidGhyZWUifSB7IjQiICJmb3VyIn0geyI1IiAiZml2ZSJ9IHsiNiIgInNpeCJ9IHsiNyIgInNldmVuIn0geyI4IiAiZWlnaHQifSB7IjkiICJuaW5lIn19ClBhcnNlUm93IOKGkCDiioLiiKko4oqi4oqa4oi14oqQ4oiKKSDiipk6IE1pbk1heCDiipAv4oqCLiAuIOKKkOKJoSgv4oqC4omhKOKKmuKsmkBcMOKMlSkpIERpZ2l0cyDCpMKkCgpQYXJ0VHdvIOKGkCAvKyDiiaEoLyvDlykgwqQgWzEwIDFdIOKJoVBhcnNlUm93IERhdGEKJnMgUGFydFR3bwo=) (pad)
