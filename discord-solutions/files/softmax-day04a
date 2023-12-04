@@ -1,0 +1,17 @@
+# Read input into matrix
+⊜∘ ≠@\n . &fras "data/day4.txt"
+
+# Trim "Card x:"
+≡▽ +1¯ ≡⍜⇌(\↥) =@:. Input
+
+# Split winning numbers from given numbers, making a 3D matrix
+⬚@ ≡⊜∘ ≠@|.
+
+# Parse each number list, boxing them because incompatible shapes
+≡⊐≡(⊜parse ≠@ .)
+
+# For each card, find length of intersection, pow 2^(len-1)
+≡(ⁿ⊙(2) -1/+ ∊: ∩⊔⊃(⊢|⊢⇌))
+
+# Sum up all points
+/+▽≥1.
