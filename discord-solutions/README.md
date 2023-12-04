@@ -107,7 +107,10 @@ This is my attempt to curate the [Advent of Code](https://adventofcode.com/) 202
 - [thomasip](https://www.uiua.org/pad?src=0_5_1__TCDihpAg4oqc4pah4omgQFxuLiAmZnJhcyAiaW5wdXRzL2RheTAzLnR4dCIKSiDihpAg4oqQ4oin4oqCOltdClIg4oaQIEriipDiiLUo4omh4oqCKeKHoeKnuy4K4omhKOKKgyjihpkyKSjiiqLih4wpKVLiipDiiLUoSuKKnCh8MSDiip7iip864oqTcGFyc2UoLUBcMCkv4oiY4o2JKeKKgyjihqfiioMo4omlQDB84omkQDkpKSjijYlbK0BcMOKHoeKnuy5dKSlMCkkg4oaQCk4g4oaQClMg4oaQIOKKjzpO4oqXOkkKRiDihpAg4omhKOKWoeKWveKJoDDiiLXip7su4oqQ4omhKOKNnMKkKOKWveKKgyjiiaHiiY0pKOKLheKImCkpOkkrKeKYhzHiip7iioIuLTHih6EzwqQpCi8r4oqc4oqiLlPiip3iiLXiipTiipAv4oqCRiBS4oqQ4oi1KOKWveKKgyjiiIo6Ii0rJCYjPSUqQC8iKSjih6Hip7spKUwgICAgICAgICAgIyBwYXJ0IDEKLyviipDiiLUoKDB8L8OXUyk9MuKnuy7iipziiqLima3iiLUo4oqPOk7iipc6ScKkKS4pRiBS4oqQ4oi1KOKWveKKgyjiiIo6QCopKOKHoeKnuykpTCAjIHBhcnQgMgo=) (pad)
 - [Mewp](https://uiua.org/pad?src=0_3_1__JCA0NjcuLjExNC4uCiQgLi4uKi4uLi4uLgokIC4uMzUuLjYzMy4KJCAuLi4uLi4jLi4uCiQgNjE3Ki4uLi4uLgokIC4uLi4uKy41OC4KJCAuLjU5Mi4uLi4uCiQgLi4uLi4uNzU1LgokIC4uLiQuKi4uLi4KJCAuNjY0LjU5OC4uCklucHV0IOKGkAoKRiDihpAgLyjiioLiioLiioMo4oeM4oaYMeKHjHzihqXiiqI64oqi4oeMfOKGmDE7KSkKRyEg4oaQIDrima064pmt4omhKDs64o2lKOKGpcOX4oa7wq8xLCwpM-KNpSjihqXDl-KGuzEsLCkzKcOXLEbiiaEo4o2JRuKJoeKNnOKZrS_ihqXil6sy4o2JKeKXqzItLF4xLjIu4oqc4oiY4omgQFxuLklucHV0Ci8r4oqccGFyc2UgRyEoOsOX4oqDKOKJpEA5fOKJpUAwfOKJoEAuKSkKLyviipDiiLUvw5filr0-MeKKkOKIteKnuy7iipXilqHiioMo4oqc4oqiLiniipxwYXJzZSBHISjDl-KNnOKZrVwrLjrDl-KKgyjiiaRAOXziiaVAMHw9QCopKQo=) (pad)
 - Vap0r1ze [part 1](https://github.com/chunes3/aoc-uiua/blob/main/discord-solutions/files/Vap0r1ze-day03a.png) (image)
-[]() (pad)
+
+## Day 4
+  
+- [gifti](https://github.com/chunes3/aoc-uiua/blob/main/discord-solutions/files/gifti-day04) (text, uses special left-to-right fork of Uiua)
 []() (pad)
 []() (pad)
 []() (pad)
