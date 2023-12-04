@@ -4,7 +4,7 @@ This is my attempt to curate the [Advent of Code](https://adventofcode.com/) 202
 
 ## Days
 
-[1](https://github.com/chunes3/aoc-uiua/blob/main/discord-solutions/README.md#day-1) | [2](https://github.com/chunes3/aoc-uiua/blob/main/discord-solutions/README.md#day-2) | [3](https://github.com/chunes3/aoc-uiua/blob/main/discord-solutions/README.md#day-3)
+[1](https://github.com/chunes3/aoc-uiua/blob/main/discord-solutions/README.md#day-1) | [2](https://github.com/chunes3/aoc-uiua/blob/main/discord-solutions/README.md#day-2) | [3](https://github.com/chunes3/aoc-uiua/blob/main/discord-solutions/README.md#day-3) | [4](https://github.com/chunes3/aoc-uiua/blob/main/discord-solutions/README.md#day-4)
 
 ## Repos/sites
 
