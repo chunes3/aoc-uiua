@@ -8,7 +8,7 @@ This is my attempt to curate the [Advent of Code](https://adventofcode.com/) 202
 
 ## Repos/sites
 
-[aprzn](https://git.interestingzinc.xyz/aprzn/aoc2023/) | [chunes](https://github.com/chunes3/aoc-uiua/tree/main/2023) | [Edhebi](https://codeberg.org/edhebi/aoc/src/branch/main/2023/uiua) | [jonathanperret](http://aoc2023.jonathanperret.net/) | [kejadlen](https://git.kejadlen.dev/alpha/advent-of-code/src/branch/main/2023/uiua) | [Omnikar](https://github.com/Omnikar/aoc-2023/tree/main/uiua) | [Pythongirl](https://gitlab.com/pythongirl/advent-of-code/-/tree/main/2023?ref_type=heads)
+[aprzn](https://git.interestingzinc.xyz/aprzn/aoc2023/) | [Azureflash](https://github.com/azureflash/adventofcode/tree/main/2023) | [chunes](https://github.com/chunes3/aoc-uiua/tree/main/2023) | [Edhebi](https://codeberg.org/edhebi/aoc/src/branch/main/2023/uiua) | [jonathanperret](http://aoc2023.jonathanperret.net/) | [kejadlen](https://git.kejadlen.dev/alpha/advent-of-code/src/branch/main/2023/uiua) | [Omnikar](https://github.com/Omnikar/aoc-2023/tree/main/uiua) | [Pythongirl](https://gitlab.com/pythongirl/advent-of-code/-/tree/main/2023?ref_type=heads)
 
 ## Day 1
 
@@ -103,3 +103,12 @@ This is my attempt to curate the [Advent of Code](https://adventofcode.com/) 202
 - Boink [part 1](https://github.com/chunes3/aoc-uiua/blob/main/discord-solutions/files/Boink-day03a.png), [part 2](https://github.com/chunes3/aoc-uiua/blob/main/discord-solutions/files/Boink-day03b.png) (image)
 - [kino ← +3_0_0_¯9↘1"shinx"](https://uiua.org/pad?src=0_5_1__JCA0NjcuLjExNC4uCiQgLi4uKi4uLi4uLgokIC4uMzUuLjYzMy4KJCAuLi4uLi4jLi4uCiQgNjE3Ki4uLi4uLgokIC4uLi4uKy41OC4KJCAuLjU5Mi4uLi4uCiQgLi4uLi4uNzU1LgokIC4uLiQuKi4uLi4KJCAuNjY0LjU5OC4uCgriipziiJjiiaAsQFxuCgpJbnB1dCDihpAKCklzRGlnaXQg4oaQIOKGp-KKgyjiiaVAMHziiaRAOSkKCuKKg-KImD7iioMoSXNEaWdpdHziiaBALikgSW5wdXQKRGlnaXRNYXNrIOKGkApTeW1ib2xNYXNrIOKGkAoKU3ltYm9sQ2VsbHMg4oaQIOKKmlN5bWJvbE1hc2sKCk51bWJlclN0YXJ0T2Zmc2V0cyDihpAg4oi14oqfw5cwLiDCr-KJoeKNnOKKnOKWoeKIteKNnOKKlCjih6Hip7spLiBEaWdpdE1hc2sKCk51bWJlckxlbmd0aHMg4oaQIOKJoeKNnOKKnOKWoeKIteKNnOKKlCjihq8u4qe7KS4gRGlnaXRNYXNrCgriipko4oqVcGFyc2XiipniiqEpIOKKg-KKneKKmyviiqEsIE51bWJlclN0YXJ0T2Zmc2V0cy4g4oqaRGlnaXRNYXNrIElucHV0CuKNnOKKoTsg4oqZKOKGr-KWs0lucHV0MCkKTnVtYmVycyDihpAKCiMgMzQ1Njc4OTAxMjM0NTY3ODkwMTIzNDU2Nzg5MDEyMzQ1Njc4OTAKCk5laWdoYm9yaW5nTnVtYmVyU3RhcnRzIOKGkCAoCiAg4omhK-KYhzEtMeKHoTNfM8KkCiAg4pa94oqhLERpZ2l0TWFzawogIOKKnSviiqEsTnVtYmVyU3RhcnRPZmZzZXRzCikKTmVpZ2hib3JpbmdOdW1iZXJzIOKGkCDiiqE6TnVtYmVycyBOZWlnaGJvcmluZ051bWJlclN0YXJ0cwoKUGFydE9uZSDihpAgKAogIFN5bWJvbENlbGxzCiAg4oqd4oqQL-KKguKJoSjilqFOZWlnaGJvcmluZ051bWJlclN0YXJ0cykKICAvK-KKoTpOdW1iZXJzCikKClBhcnRUd28g4oaQICgKICBTeW1ib2xDZWxscwogIOKJoXviioMo4oqhOklucHV0fE5laWdoYm9yaW5nTnVtYmVycyl9CiAg4pa94oqQ4omhKOKGp-KKkyg9QCp8PTLip7sp4o2Y4oqfKS4KICAvK-KKkOKJoS_Dl-KJoeKKoTEKKQo=) (pad)
 - [Edhebi](https://codeberg.org/edhebi/aoc/src/branch/main/2023/uiua/day03.ua) (repo)
+- [thomasip](https://www.uiua.org/pad?src=0_5_1__TCDihpAg4oqc4pah4omgQFxuLiAmZnJhcyAiaW5wdXRzL2RheTAzLnR4dCIKSiDihpAg4oqQ4oin4oqCOltdClIg4oaQIEriipDiiLUo4omh4oqCKeKHoeKnuy4K4omhKOKKgyjihpkyKSjiiqLih4wpKVLiipDiiLUoSuKKnCh8MSDiip7iip864oqTcGFyc2UoLUBcMCkv4oiY4o2JKeKKgyjihqfiioMo4omlQDB84omkQDkpKSjijYlbK0BcMOKHoeKnuy5dKSlMCkkg4oaQCk4g4oaQClMg4oaQIOKKjzpO4oqXOkkKRiDihpAg4omhKOKWoeKWveKJoDDiiLXip7su4oqQ4omhKOKNnMKkKOKWveKKgyjiiaHiiY0pKOKLheKImCkpOkkrKeKYhzHiip7iioIuLTHih6EzwqQpCi8r4oqc4oqiLlPiip3iiLXiipTiipAv4oqCRiBS4oqQ4oi1KOKWveKKgyjiiIo6Ii0rJCYjPSUqQC8iKSjih6Hip7spKUwgICAgICAgICAgIyBwYXJ0IDEKLyviipDiiLUoKDB8L8OXUyk9MuKnuy7iipziiqLima3iiLUo4oqPOk7iipc6ScKkKS4pRiBS4oqQ4oi1KOKWveKKgyjiiIo6QCopKOKHoeKnuykpTCAjIHBhcnQgMgo=) (pad)
+- [Mewp](https://uiua.org/pad?src=0_3_1__JCA0NjcuLjExNC4uCiQgLi4uKi4uLi4uLgokIC4uMzUuLjYzMy4KJCAuLi4uLi4jLi4uCiQgNjE3Ki4uLi4uLgokIC4uLi4uKy41OC4KJCAuLjU5Mi4uLi4uCiQgLi4uLi4uNzU1LgokIC4uLiQuKi4uLi4KJCAuNjY0LjU5OC4uCklucHV0IOKGkAoKRiDihpAgLyjiioLiioLiioMo4oeM4oaYMeKHjHzihqXiiqI64oqi4oeMfOKGmDE7KSkKRyEg4oaQIDrima064pmt4omhKDs64o2lKOKGpcOX4oa7wq8xLCwpM-KNpSjihqXDl-KGuzEsLCkzKcOXLEbiiaEo4o2JRuKJoeKNnOKZrS_ihqXil6sy4o2JKeKXqzItLF4xLjIu4oqc4oiY4omgQFxuLklucHV0Ci8r4oqccGFyc2UgRyEoOsOX4oqDKOKJpEA5fOKJpUAwfOKJoEAuKSkKLyviipDiiLUvw5filr0-MeKKkOKIteKnuy7iipXilqHiioMo4oqc4oqiLiniipxwYXJzZSBHISjDl-KNnOKZrVwrLjrDl-KKgyjiiaRAOXziiaVAMHw9QCopKQo=) (pad)
+[]() (pad)
+[]() (pad)
+[]() (pad)
+[]() (pad)
+[]() (pad)
+[]() (pad)
+[]() (pad)
